@@ -4,6 +4,21 @@ TypeScript, React, Node. I build and ship whole products end-to-end — frontend
 
 ---
 
+#### 📱 LoveStack — AI iOS app, live on the App Store
+
+**[App Store](https://apps.apple.com/app/lovestack-rizz-dating-coach/id6762365050)** · **[lovestack.com](https://lovestack.com)**
+
+Software engineer, part-time, Jan 2025 – Jul 2026.
+
+- **Owned** the flagship real-time AI video "talking avatar" end-to-end, pre-release — a lifelike persona you talk to live, from multi-vendor evaluation through a working build. LiveKit/WebRTC video, HeyGen lip-sync, Gemini Live voice.
+- **Part of the team** building a live consumer AI product — React frontend, Convex backend, iOS via Capacitor — plus AI content generation and the subscription/entitlement layer.
+
+The app is public; the code isn't. Happy to go deep on the architecture in conversation.
+
+`TypeScript` `React` `Convex` `Capacitor` `LiveKit/WebRTC` `Gemini` `OpenAI` `RevenueCat` `Vitest`
+
+---
+
 #### 🛒 Sznyt Design — solo e-commerce platform
 
 **[Live demo](https://shop-sznyt-design.vercel.app)** · **[Source](https://github.com/adrian-imiolo/shop_sznyt_design)**
@@ -19,21 +34,6 @@ A custom e-commerce platform built and operated end-to-end by one developer. No 
 - Architecture decisions (ADRs), domain model and operational runbooks live alongside the code
 
 `React 19` `TypeScript` `Express 5` `Prisma` `PostgreSQL` `Stripe` `Clerk` `Tailwind` `Vitest` `Playwright` `GitHub Actions`
-
----
-
-#### 📱 LoveStack — AI iOS app, live on the App Store
-
-**[App Store](https://apps.apple.com/app/lovestack-rizz-dating-coach/id6762365050)** · **[lovestack.com](https://lovestack.com)**
-
-Software engineer, part-time, Jan 2025 – Jul 2026.
-
-- **Owned** the flagship real-time AI video "talking avatar" end-to-end, pre-release — a lifelike persona you talk to live, from multi-vendor evaluation through a working build. LiveKit/WebRTC video, HeyGen lip-sync, Gemini Live voice.
-- **Part of the team** building a live consumer AI product — React frontend, Convex backend, iOS via Capacitor — plus AI content generation and the subscription/entitlement layer.
-
-The app is public; the code isn't. Happy to go deep on the architecture in conversation.
-
-`TypeScript` `React` `Convex` `Capacitor` `LiveKit/WebRTC` `Gemini` `OpenAI` `RevenueCat` `Vitest`
 
 ---
 
